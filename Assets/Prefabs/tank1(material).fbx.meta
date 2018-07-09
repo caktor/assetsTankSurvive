@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9dd49269797e11d41a5f9f87c8bff36f
-timeCreated: 1529916279
+guid: 5860c2f2cf562da49b3739be880994c9
+timeCreated: 1531116451
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -12,7 +12,9 @@ ModelImporter:
     100008: Cylinder
     100010: Cylinder.001
     100012: Lamp
-    100014: //RootNode
+    100014: Lamp.001
+    100016: Ndase
+    100018: //RootNode
     400000: BezierCircle.001
     400002: Cube.000
     400004: Cube.001
@@ -20,36 +22,42 @@ ModelImporter:
     400008: Cylinder
     400010: Cylinder.001
     400012: Lamp
-    400014: //RootNode
-    2100000: Material.008
-    2100002: Material.002
-    2100004: Material
-    2100006: Material.005
-    2100008: Material.004
-    2100010: Material.006
-    2100012: Material.007
-    2100014: Material.010
-    2100016: Material.009
-    2100018: Material.001
+    400014: Lamp.001
+    400016: Ndase
+    400018: //RootNode
+    2100000: Material.007
+    2100002: Material.005
+    2100004: Material.004
+    2100006: Material.001
+    2100008: Material.006
+    2100010: Material.011
+    2100012: Material.010
+    2100014: Material.009
+    2100016: Material.002
+    2100018: Material.008
     2300000: BezierCircle.001
     2300002: Cube.000
     2300004: Cube.001
     2300006: Cube.002
     2300008: Cylinder
     2300010: Cylinder.001
+    2300012: Ndase
     3300000: BezierCircle.001
     3300002: Cube.000
     3300004: Cube.001
     3300006: Cube.002
     3300008: Cylinder
     3300010: Cylinder.001
-    4300000: Cylinder.001
-    4300002: Cylinder
-    4300004: Cube.002
+    3300012: Ndase
+    4300000: Ndase
+    4300002: Cube.001
+    4300004: Cube.000
     4300006: BezierCircle.001
-    4300008: Cube.000
-    4300010: Cube.001
+    4300008: Cube.002
+    4300010: Cylinder
+    4300012: Cylinder.001
     10800000: Lamp
+    10800002: Lamp.001
   externalObjects: {}
   materials:
     importMaterials: 1
